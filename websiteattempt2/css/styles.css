@@ -1,0 +1,64 @@
+
+body {
+    background-color: lavenderblush;
+    color: purple;
+    /*text color*/
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=800");
+
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: darkolivegreen;
+}
+
+a:visited {
+    color: palevioletred;
+}
+
+img {
+    border: 2px solid blue;
+    padding: 3px;
+    margin: 10px;
+    /*CENTERS STUFF*/
+    display: block;
+    margin: auto;
+}
+
+.iframecenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz{
+    color: gold;
+    font-size: 50px;
+    font-style: bold;
+    display: block;
+    margin: auto;
+}
+.rizz:hover{
+    color: red;
+    font-size: 50px;
+    font-style: bold;
+    display: block;
+    margin: auto;
+}
+
+li{
+    text-decoration: overline;
+}
+
+li:hover{
+    text-decoration: underline;
+}
